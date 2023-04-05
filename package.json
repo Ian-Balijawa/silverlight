@@ -8,7 +8,7 @@
   "scripts": {
     "start": "node ./src/addColors.js",
     "build": "node ./src/addColors.js && build-theme && vsce package",
-    "pub": "git add . && git commit -m \"updated theme  && vsce publish\""
+    "pub": "git add . && git commit -m 'updated-theme'  && vsce publish"
   },
   "engines": {
     "vscode": "^1.51.0"
