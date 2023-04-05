@@ -4,12 +4,11 @@ VSCode Silver Gray Theme
 
 **More new themes!**
 
-Silver Primer Theme, Redefined workbench colors
+Silver Usher Theme, Redefined workbench colors
 
 Silver Dark Theme
 
-Silver Yarra Theme
-
+Silver Gad Theme
 
 ## Screenshots
 
@@ -21,34 +20,33 @@ Silver Dark Theme
 
 ![vscode](./screenshots/vscode-dark.png)
 
-Silver Yarra Theme
+Silver Gad Theme
 
-![vscode](./screenshots/vscode-yarra.png)
+![vscode](./screenshots/vscode-Gad.png)
 
-Silver Primer Theme
+Silver Usher Theme
 
-![vscode](./screenshots/vscode-primer.png) -->
+![vscode](./screenshots/vscode-usher.png) -->
 
 Silver Gray Syntax Color
 
 ![vscode](./screenshots/syntax-gray.png)
 
-Silver Primer Syntax Color
+Silver Usher Syntax Color
 
-![vscode](./screenshots/syntax-primer.png)
+![vscode](./screenshots/syntax-usher.png)
 
 Silver Dark Syntax Color
 
 ![vscode](./screenshots/syntax-dark.png)
 
-Silver Yarra Syntax Color
+Silver Gad Syntax Color
 
-![vscode](./screenshots/syntax-yarra.png)
-
+![vscode](./screenshots/syntax-Gad.png)
 
 ## References
 
-[Primer]
+[Usher]
 
 [One Dark]
 
@@ -56,22 +54,14 @@ Silver Yarra Syntax Color
 
 [New Moon]
 
-[Yarra Valley]
+[Gad Valley]
 
-[Noctis]:https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis
-
-[Tokyo Night]:https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night
-
-[Gray Gray Gray]:https://marketplace.visualstudio.com/items?itemName=kendama1980.graygraygray
-
-[Primer]:https://primer.style/primitives/
-
-[Github Light]:https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light
-
-[Yarra Valley]:https://marketplace.visualstudio.com/items?itemName=dustypomerleau.yarra-valley
-
-[New Moon]:https://marketplace.visualstudio.com/items?itemName=taniarascia.new-moon-vscode
-
-[An Old Hope]:https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode
-
-[One Dark]:https://github.com/joshdick/onedark.vim/blob/main/colors/onedark.vim
+[noctis]: https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis
+[tokyo night]: https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night
+[gray gray gray]: https://marketplace.visualstudio.com/items?itemName=kendama1980.graygraygray
+[usher]: https://usher.style/primitives/
+[github light]: https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light
+[gad valley]: https://marketplace.visualstudio.com/items?itemName=dustypomerleau.Gad-valley
+[new moon]: https://marketplace.visualstudio.com/items?itemName=taniarascia.new-moon-vscode
+[an old hope]: https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode
+[one dark]: https://github.com/joshdick/onedark.vim/blob/main/colors/onedark.vim

@@ -29,7 +29,7 @@
     "Concentrate",
     "An Old Hope",
     "Github",
-    "Primer",
+    "Usher",
     "Noctis",
     "One Dark"
   ],
@@ -49,16 +49,16 @@
         "path": "./output/silver-dark-color-theme.json"
       },
       {
-        "id": "Silver Yarra",
-        "label": "Silver Yarra",
+        "id": "Silver Gad",
+        "label": "Silver Gad",
         "uiTheme": "vs-dark",
-        "path": "./output/silver-yarra-color-theme.json"
+        "path": "./output/silver-Gad-color-theme.json"
       },
       {
-        "id": "Silver Primer",
-        "label": "Silver Primer",
+        "id": "Silver Usher",
+        "label": "Silver Usher",
         "uiTheme": "vs",
-        "path": "./output/silver-primer-color-theme.json"
+        "path": "./output/silver-usher-color-theme.json"
       }
     ]
   },
