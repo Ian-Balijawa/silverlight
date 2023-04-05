@@ -1,10 +1,10 @@
 {
   "name": "silver-light",
-  "repository": "https://github.com/black-black-cat/vscode-silver-gray-theme",
+  "repository": "https://github.com/Ian-Balijawa/silverlight.git",
   "displayName": "Silver Light",
   "description": "VSCode Silver Light Theme",
   "publisher": "ianbalijawa",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "scripts": {
     "start": "node ./src/addColors.js",
     "build": "node ./src/addColors.js && build-theme && vsce package"
