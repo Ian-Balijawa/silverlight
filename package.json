@@ -11,7 +11,7 @@
   "scripts": {
     "start": "node ./src/addColors.js",
     "build": "node ./src/addColors.js && build-theme && vsce package",
-    "pub": "git add . && git commit -m 'refactors'  && vsce publish && git push"
+    "pub": "git add . && git commit -m 'refactors'  && vsce publish && git push origin main"
   },
   "engines": {
     "vscode": "^1.51.0"
