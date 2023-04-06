@@ -7,11 +7,11 @@
   "displayName": "Silver Light",
   "description": "VSCode Silver Theme",
   "publisher": "ianbalijawa",
-  "version": "0.2.14.1",
+  "version": "0.2.15",
   "scripts": {
     "start": "node ./src/addColors.js",
     "build": "node ./src/addColors.js && build-theme && vsce package",
-    "pub": "git add . && git commit -m 'refactors'  && vsce publish && git push origin main"
+    "pub": "git add . && git commit -m 'refactors'  && vsce publish && git push"
   },
   "engines": {
     "vscode": "^1.51.0"
