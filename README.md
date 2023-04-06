@@ -20,4 +20,4 @@ Silver Dark Syntax Color
 
 Silver Gad Syntax Color
 
-![vscode](./screenshots/syntax-Gad.png)
+![vscode](./screenshots/./syntax-Gad.png)
