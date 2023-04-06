@@ -7,7 +7,7 @@
   "displayName": "Silver Light",
   "description": "VSCode Silver Theme",
   "publisher": "ianbalijawa",
-  "version": "0.2.12",
+  "version": "0.2.13",
   "scripts": {
     "start": "node ./src/addColors.js",
     "build": "node ./src/addColors.js && build-theme && vsce package",

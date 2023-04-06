@@ -10,14 +10,14 @@
 
 ![vscode](./screenshots/syntax-gray.png)
 
-Silver Usher Syntax Color
+## Silver Usher Syntax Color
 
-![vscode](./screenshots/syntax-usher.png)
+![vscode](screenshots/syntax-usher.png)
 
-Silver Dark Syntax Color
+## Silver Dark Syntax Color
 
 ![vscode](./screenshots/syntax-dark.png)
 
-Silver Gad Syntax Color
+## Silver Gad Syntax Color
 
 ![vscode](./screenshots/./syntax-Gad.png)
