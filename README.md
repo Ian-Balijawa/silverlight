@@ -28,7 +28,7 @@ Silver Usher Theme
 
 ![vscode](./screenshots/vscode-usher.png) -->
 
-Silver Gray Syntax Color
+Silver Syntax Color
 
 ![vscode](./screenshots/syntax-gray.png)
 
